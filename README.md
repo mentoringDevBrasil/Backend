@@ -1,4 +1,2 @@
-# frontend_react
-# frontend_react
-# frontend_react
-# frontend_react
+# Backend
+Este repositório resposavel belo backend de mentoringDevBrasil onde iremos utilizar o framework nestJS
